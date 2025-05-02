@@ -9,59 +9,88 @@ z2
 cModel Technology
 Z0 dC:/Users/Merry Wang/Desktop/ESC/mycode/modelsim
 T_opt
-!s110 1745240884
-VAO?FKhX7jPKY_BXUnWh0g1
+!s110 1745850215
+VU8]^44ffeeJbd^;7JQ1853
 Z1 04 16 4 work tb_ethercat_fmmu fast 0
-=1-dc4ba146bc41-68064334-301-6880
+=1-dc4ba146bc41-680f8f67-173-2300
 o-quiet -auto_acc_if_foreign -work work
 n@_opt
 Z2 OL;O;10.4;61
 R0
 T_opt1
-!s110 1745241032
-VgnhGI_@GMgjeCidklFEh13
+!s110 1745852030
+V1b5;2zOS]LDR@hblbO`k01
 R1
-=1-dc4ba146bc41-680643c8-130-7538
-o-quiet -auto_acc_if_foreign -work work +acc
+=1-dc4ba146bc41-680f967e-13-45b0
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
 n@_opt1
 R2
-vethercat_fmmu
-Z3 !s110 1745241020
+R0
+T_opt2
+!s110 1746155098
+VV=QnOdRXGgF57Z0TWo7Oa3
+04 13 4 work fmmu_test1_tb fast 0
+=1-dc4ba146bc41-6814365a-31c-443c
+R3
+n@_opt2
+R2
+vfmmu_test1
+!s110 1746155087
 !i10b 1
-!s100 0Q73b0dzHfYR;lUBE1mJ@3
-I<^N4LXbOkNh2;6F3Ul10W3
+!s100 BUjU6@eh1<IKm@`nzJ;D31
+Ic8Sd5CNWo0gd7NZbXKfOF1
 Z4 VDg1SIo80bB@j0V0VzS_@n1
 R0
-w1745240225
-8C:/Users/Merry Wang/Desktop/ESC/mycode/ethercat_fmmu.v
-FC:/Users/Merry Wang/Desktop/ESC/mycode/ethercat_fmmu.v
+w1746155084
+Z5 8C:/Users/Merry Wang/Desktop/ESC/mycode/fmmu_test1.v
+Z6 FC:/Users/Merry Wang/Desktop/ESC/mycode/fmmu_test1.v
 L0 1
-Z5 OL;L;10.4;61
+Z7 OL;L;10.4;61
 r1
 !s85 0
 31
-!s108 1745241020.788000
-!s107 C:/Users/Merry Wang/Desktop/ESC/mycode/ethercat_fmmu.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Merry Wang/Desktop/ESC/mycode/ethercat_fmmu.v|
+!s108 1746155087.936000
+Z8 !s107 C:/Users/Merry Wang/Desktop/ESC/mycode/fmmu_test1.v|
+Z9 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Merry Wang/Desktop/ESC/mycode/fmmu_test1.v|
 !i113 0
-Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
-vtb_ethercat_fmmu
-R3
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vfmmu_test1_tb
+!s110 1746155088
 !i10b 1
-!s100 ^[DK6PX@_<YJJi;VH>hUc0
-IjHjzQiiB4A1Zc66<gieNo1
+!s100 BlWNkTlh0T5iIPdM=So[j0
+I:^EaaC5^Y4PTNM8IWEiNR1
 R4
 R0
-w1745240661
-8C:/Users/Merry Wang/Desktop/ESC/mycode/tb_ethercat_fmmu.vt
-FC:/Users/Merry Wang/Desktop/ESC/mycode/tb_ethercat_fmmu.vt
+w1746154962
+8C:/Users/Merry Wang/Desktop/ESC/mycode/fmmu_test1_tb.v
+FC:/Users/Merry Wang/Desktop/ESC/mycode/fmmu_test1_tb.v
 L0 3
-R5
+R7
 r1
 !s85 0
 31
-!s108 1745241020.843000
-!s107 C:/Users/Merry Wang/Desktop/ESC/mycode/tb_ethercat_fmmu.vt|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Merry Wang/Desktop/ESC/mycode/tb_ethercat_fmmu.vt|
+!s108 1746155088.029000
+!s107 C:/Users/Merry Wang/Desktop/ESC/mycode/fmmu_test1_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Merry Wang/Desktop/ESC/mycode/fmmu_test1_tb.v|
 !i113 0
+R10
+vfmmy_test1
+!s110 1746155050
+!i10b 1
+!s100 AkLHH5F<T4H]LN[[bWZNC2
+I]6RZjbGUlVIYNFPTj5o8C1
+R4
+R0
+w1746154896
+R5
 R6
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1746155050.868000
+R8
+R9
+!i113 0
+R10

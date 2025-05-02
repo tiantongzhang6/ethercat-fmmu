@@ -1,8 +1,8 @@
-{C:/Users/Merry Wang/Desktop/ESC/mycode/ethercat_fmmu.v} {1 {vlog -work work -vopt -stats=none {C:\Users\Merry Wang\Desktop\ESC\mycode\ethercat_fmmu.v}
+{C:/Users/Merry Wang/Desktop/ESC/mycode/fmmu_test1_tb.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Merry Wang/Desktop/ESC/mycode/fmmu_test1_tb.v}
 Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
--- Compiling module ethercat_fmmu
+-- Compiling module fmmu_test1_tb
 
 Top level modules:
-	ethercat_fmmu
+	fmmu_test1_tb
 
 } {} {}}
